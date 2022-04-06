@@ -4,5 +4,6 @@
   "spellcheckLanguages": [
     "en-US",
     "pl"
-  ]
+  ],
+  "promptDelete": false
 }
