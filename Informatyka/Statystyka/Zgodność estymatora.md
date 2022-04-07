@@ -1,0 +1,4 @@
+
+# Zgodność [[Estymator|estymatora]]
+
+[[Statystyka]]

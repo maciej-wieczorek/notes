@@ -1,0 +1,3 @@
+# Obciążenie [[Estymator|estymatora]]
+
+[[Statystyka]]

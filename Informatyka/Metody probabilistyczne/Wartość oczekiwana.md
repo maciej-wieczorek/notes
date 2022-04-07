@@ -1,3 +1,3 @@
-# Prawdopodobieństwo
+# Wartość oczekiwana
 
 [[Metody probabilistyczne]]

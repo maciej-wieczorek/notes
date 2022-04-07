@@ -1,3 +1,5 @@
+# Pierwszy kwartyl
+
 [[Mediana]] podpróby, składającej się z elementów mniejszych od mediany całej [[Próba|próby]]
 
 Inaczej: Element w ćwiartce

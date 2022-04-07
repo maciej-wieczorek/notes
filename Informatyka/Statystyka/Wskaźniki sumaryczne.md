@@ -1,4 +1,6 @@
-# [[Wskaźniki położenia]]
-# [[Wskaźniki rozproszenia]]
+# Wskaźniki sumaryczne
+
+### [[Wskaźniki położenia]]
+### [[Wskaźniki rozproszenia]]
 
 [[Statystyka]]

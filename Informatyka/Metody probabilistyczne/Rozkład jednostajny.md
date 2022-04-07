@@ -1,3 +1,3 @@
-# Prawdopodobieństwo
+# Rozkład jednostajny
 
 [[Metody probabilistyczne]]

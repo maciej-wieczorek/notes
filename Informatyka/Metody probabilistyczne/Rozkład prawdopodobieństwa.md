@@ -1,0 +1,3 @@
+# Rozkład prawdopodobieństwa
+
+[[Metody probabilistyczne]]

@@ -1,3 +1,3 @@
-# Prawdopodobieństwo
+# Zmienna losowa dyskretna
 
 [[Metody probabilistyczne]]

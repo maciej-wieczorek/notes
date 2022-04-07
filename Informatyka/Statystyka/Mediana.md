@@ -1,3 +1,5 @@
+# Mediana
+
 ### Wady
 - Nie podatna na wartości skrajne
 ### Zalety

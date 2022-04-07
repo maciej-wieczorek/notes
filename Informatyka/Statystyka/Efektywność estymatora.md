@@ -1,0 +1,3 @@
+# Efektywność [[Estymator|estymatora]]
+
+[[Statystyka]]

@@ -1,3 +1,5 @@
+# Kwartyl
+
 Dzieli dane na cztery części
 Wyróżniamy:
 - [[Pierwszy kwartyl]]

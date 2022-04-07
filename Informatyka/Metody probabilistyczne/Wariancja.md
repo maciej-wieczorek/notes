@@ -1,3 +1,3 @@
-# Prawdopodobieństwo
+# Wariancja
 
 [[Metody probabilistyczne]]
