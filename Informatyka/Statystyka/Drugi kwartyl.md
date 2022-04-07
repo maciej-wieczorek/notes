@@ -1,0 +1,3 @@
+Inaczej [[Mediana]]
+
+[[Statystyka]]
