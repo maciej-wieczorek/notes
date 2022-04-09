@@ -1,0 +1,3 @@
+# Kombinatoryka
+
+[[Matematyka dyskretna]]

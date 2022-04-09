@@ -1,0 +1,3 @@
+# Teoria mnogości
+
+[[Matematyka dyskretna]]
