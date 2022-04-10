@@ -1,4 +1,4 @@
-# Prawdopodobieństwo
+# Prawdopodobieństwo klasyczne
 Prawdopodobieństwo [[Zdarzenie elementarne|zdarzenia elementarnego:]]
 $$P(A)=\frac{|A|}{|\Omega|}$$
 Uwaga: tylko jeśli podlega [[Zasada nierozróżnialności|zasadzie nierozróżnialności]]
@@ -14,7 +14,7 @@ liczba [[Zdarzenie elementarne|zdarzeń elementarnych]] $\omega$ należących do
 ### Przykład
 - [[Zdarzenie losowe]] $C$ "wypadła parzysta liczba oczek":
 
-![](img/prawdopodobienstwo_1.PNG)
+![](img/prawdopodobienstwo_klasyczne1.PNG)
 $$C=\{\omega_2, \omega_4, \omega_6\}$$
 $$|C|=3$$
 $$P(C)=\frac{|C|}{|\Omega|}=\frac{3}{6}=\frac{1}{2}$$

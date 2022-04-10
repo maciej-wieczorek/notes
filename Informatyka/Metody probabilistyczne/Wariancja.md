@@ -1,3 +1,0 @@
-# Wariancja
-
-[[Metody probabilistyczne]]
