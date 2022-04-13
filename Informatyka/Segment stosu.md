@@ -1,6 +1,6 @@
 # [[Segment]] [[Stos|stosu]]
 
-### Rozkazu
+### Rozkazy
 - odłuż na stos
 - zdejmij ze stosu
 
