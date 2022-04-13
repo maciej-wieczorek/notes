@@ -1,0 +1,1 @@
+Powierzchnia która rozprasza światło w sposób idealny
