@@ -1,0 +1,3 @@
+# Przerzutnik
+
+[[Technika cyfrowa]]
