@@ -1,0 +1,4 @@
+# Koncentrator
+*hub*
+
+[[Sieci komputerowe]]
