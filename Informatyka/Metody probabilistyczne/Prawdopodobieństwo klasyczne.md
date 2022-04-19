@@ -11,6 +11,9 @@ liczba [[Zdarzenie elementarne|zdarzeń elementarnych]] $\omega$ należących do
 - $P(\Omega)=1$
 - $P(A)\in [0,1]$
 
+### Ograniczenia
+- 
+
 ### Przykład
 - [[Zdarzenie losowe]] $C$ "wypadła parzysta liczba oczek":
 

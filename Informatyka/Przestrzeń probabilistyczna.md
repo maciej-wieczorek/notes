@@ -1,0 +1,3 @@
+# Przestrzeń probabilistyczna
+
+[[Metody probabilistyczne]]
