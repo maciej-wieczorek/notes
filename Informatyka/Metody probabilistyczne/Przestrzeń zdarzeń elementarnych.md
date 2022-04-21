@@ -1,5 +1,6 @@
 # Przestrzeń zdarzeń elementarnych
-[[Zbiór]] wszystkich możliwych wyników [[Zdarzenie elementarne|zdarzeń elementarnych]]
+[[Zbiór]] wszystkich możliwych wyników [[Zdarzenie elementarne|zdarzeń elementarnych]].
+Zbiór $\Omega$ może być [[Zbiór nieskończony|nieskończony]], a nawet [[Zbiór nieprzeliczalny|nieprzeliczalny]] (zob. [[Przestrzeń probabilistyczna]]).
 
 Oznaczenie: $\Omega$
 

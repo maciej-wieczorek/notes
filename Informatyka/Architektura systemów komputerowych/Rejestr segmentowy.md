@@ -7,3 +7,5 @@ Proces nie może mieć dostępu do pamięci innego procesu
 - CS (Code Segment) - adres początku [[Segment kodu|segmentu kodu]]
 - DS (Data Segment) - adres [[Segment danych|segmentu danych]]
 - SS (Stack Segment) - adres [[Segment stosu|segmentu stosu]]
+
+[[Architektura systemów komputerowych]]

@@ -7,7 +7,7 @@ W praktyce (architektura Intela):
 - CX: licznik w pętlach
 - DX: przekazywanie i odbieranie danych z portów wejścia-wyjścia
 
-Algorytm najlepiej projektować tak, aby odpowiedznie dane znalazły się w odpowiedznich rejestrach, aby unikną wykonywania operacji [[MOV]]
+Algorytm najlepiej projektować tak, aby odpowiedznie dane znalazły się w odpowiedznich rejestrach, aby uniknąć wykonywania operacji [[MOV]]
 
 W [[Architektura RISC|RISC]] takich rejestrów może być nawet 200
 

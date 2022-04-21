@@ -1,5 +1,5 @@
 # Komputer
-### Elementu funkcjonalne
+### Elementy funkcjonalne
 - [[Procesor]]
 - [[Pamięć operacyjna]]
 - [[Układ wejścia-wyjścia|Układy wejścia-wyjścia]]
