@@ -1,3 +1,3 @@
-# Ruter
+# Maska podsieci
 
 [[Sieci komputerowe]]
