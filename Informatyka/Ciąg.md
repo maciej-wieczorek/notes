@@ -1,0 +1,3 @@
+# Ciąg
+
+[[Matematyka dyskretna]]

@@ -1,0 +1,1 @@
+# Właściwość fizyczna

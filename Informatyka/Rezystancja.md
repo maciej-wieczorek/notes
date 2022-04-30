@@ -2,6 +2,8 @@
 ### Definicja
 Cecha obiektu do przeciwstawiania się przepływowi[[Prąd elektryczny| prądu elektrycznego]]
 
+### Symbol
+$R$
 ### Jednostka
 Om $[\Omega]$
 

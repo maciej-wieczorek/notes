@@ -1,0 +1,3 @@
+# [[Ciąg]] skończony
+
+[[Matematyka dyskretna]]

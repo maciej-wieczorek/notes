@@ -2,6 +2,8 @@
 ### Definicja
 Stosunek wartości [[Ładunek elektryczny|ładunku elektrycznego]] przepływającego przez wyznaczoną powierzchnię do czasu przepływu ładunku
 
+### Symbol
+$I$
 ### Jednostka
 Amper $[A]$
 

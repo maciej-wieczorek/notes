@@ -1,0 +1,3 @@
+# Baza
+
+[[Algebra liniowa]]

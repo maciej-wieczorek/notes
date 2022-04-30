@@ -2,6 +2,8 @@
 ### Definicja
 Różnica [[Potencjał elektryczny|potencjałów elektrycznych]] między dwoma punktami [[Obwód elektryczny|obwodu elektrycznego]] lub [[Pole elektryczne|pola elektrycznego]]
 
+### Symbol
+$U$
 ### Jednostka
 Wolt $[V]$
 
