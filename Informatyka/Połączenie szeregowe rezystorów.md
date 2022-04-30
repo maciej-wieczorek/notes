@@ -1,0 +1,3 @@
+# Połączenie szeregowe [[rezystorów]]
+
+[[Elektronika]]
