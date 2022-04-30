@@ -1,0 +1,3 @@
+# Prawo Ohma
+
+[[Elektronika]]
