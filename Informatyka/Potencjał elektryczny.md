@@ -1,0 +1,1 @@
+# Potencjał elektryczny

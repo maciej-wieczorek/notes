@@ -1,4 +1,4 @@
 # Prąd elektryczny
-Uporządkowany ruch [[Ładunek elektryczny|ładunków elektrycznych]].
+**Uporządkowany** ruch [[Ładunek elektryczny|ładunków elektrycznych]].
 
 [[Fizyka]], [[Elektronika]]
