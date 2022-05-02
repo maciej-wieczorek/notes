@@ -9,5 +9,4 @@ Inaczej: Suma [[Napięcie|napięć]] pochodzących od [[Źródło zasilania|źr�
 ![](img/drugie_prawo_kirchhoffa1.PNG)
 
 
-
 [[Elektronika]]

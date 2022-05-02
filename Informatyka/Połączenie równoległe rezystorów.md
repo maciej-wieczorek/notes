@@ -1,4 +1,4 @@
-# Połączenie równoległe [[Rezystor|rezystorów]]
+# [[Połączenie równoległe]] [[Rezystor|rezystorów]]
 $$\frac{1}{R_z}=\sum_i \frac{1}{R_i}$$
 gdzie:
 - $R_z$ - [[Rezystancja zastępcza]]

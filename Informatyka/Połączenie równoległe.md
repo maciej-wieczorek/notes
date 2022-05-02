@@ -1,0 +1,3 @@
+# Połączenie równoległe
+
+[[Elektronika]]
