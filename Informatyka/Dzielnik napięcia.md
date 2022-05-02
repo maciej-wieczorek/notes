@@ -1,7 +1,7 @@
 # Dzielnik [[Napięcie|napięcia]]
 Dzielnik napięcia pozwala zmniejszyć [[Napięcie|napięcie]] poprzez zastosowanie [[Połączenie szeregowe rezystorów|szeregowo połączonych rezystorów]].
 
-**Uwaga:** dzielnik napięcia nie może pobierać dużego prądu, więc nie nadaje się do np. zasilania silników ([[dlaczego]])
+**Uwaga:** dzielnik napięcia nie może pobierać dużego prądu, więc nie nadaje się do np. zasilania silników (wyjaśnienie: [[Rezystancja wewnętrzna]])
 
 $$U_\text{wyj}=U_\text{zas}(\frac{R_1}{R_1+R_2})$$
 gdzie:
