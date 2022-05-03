@@ -1,0 +1,3 @@
+# Półprzewodnik
+
+[[Fizyka]]

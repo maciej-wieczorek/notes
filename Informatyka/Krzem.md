@@ -1,0 +1,2 @@
+# Krzem
+[[Półprzewodnik]].

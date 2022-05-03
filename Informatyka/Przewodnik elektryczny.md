@@ -1,4 +1,4 @@
 # Przewodnik elektryczny
-[[Substancja]], która dobrze przewodzi [[Prąd elektryczny|prąd elektryczny]].
+[[Substancja]], która dobrze [[Przewodnictwo elektryczne|przewodzi]] [[Prąd elektryczny|prąd elektryczny]].
 
 [[Fizyka]]
