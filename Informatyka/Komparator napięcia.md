@@ -1,0 +1,3 @@
+# Komparator [[Napięcie|napięcia]]
+
+[[Elektronika]]

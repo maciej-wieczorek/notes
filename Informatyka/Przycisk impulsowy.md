@@ -1,4 +1,4 @@
 # Przycisk impulsowy (monostabilny)
-[[Element stykowy]]. Przyłożenie 
+[[Element stykowy]] 
 
 [[Elektronika]]
